@@ -1,8 +1,6 @@
-# Stats-Preview-Card-Component
+# Frontend Mentor - Stats preview card component
 
-
-
-![Design preview for the NFT preview card component coding challenge](preview.jpg)
+![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
